@@ -2,7 +2,7 @@
 
 **실기기에서 생기는 문제를 로그로 재현하고, 근본 원인까지 추적합니다.**
 
-결제 단말(키오스크, 무인수납기) 앱, 저성능 태블릿에서 도는 병원 차팅 앱, 100시간 이상 상주하는 포그라운드 서비스를 가진 MAU 30만 헬스케어 앱을 운영해 왔습니다.
+결제 단말(키오스크, 무인수납기) 앱, 저성능 태블릿에서 도는 병원 차팅 앱, 100시간 이상 상주하는 포그라운드 서비스를 가진 MAU 30만 헬스케어 앱을 운영해 왔습니다.<br>
 전능아이티(주) 개발2팀 모바일 파트장 (2025.04 ~)
 
 <br>
@@ -45,8 +45,8 @@
 ![Firebase](https://img.shields.io/badge/Crashlytics-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
 
-디버깅 도구: LeakCanary, Android Studio Memory Profiler, Macrobenchmark, Play Console Android Vitals
-관심 분야: AOSP, Android Framework, HAL
+- 디버깅 도구: LeakCanary, Android Studio Memory Profiler, Macrobenchmark, Play Console Android Vitals
+- 관심 분야: AOSP, Android Framework, HAL
 
 <br>
 
